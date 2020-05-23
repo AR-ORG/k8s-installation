@@ -214,6 +214,8 @@ Run 'kubectl get nodes' on the control-plane to see this node join the cluster.
 
 
 Install a Kubernetes Cluster on RHEL8 with conatinerd:
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 
 For this, we will walk-through a multi-node Kubernetes cluster installation on RHEL 8. This tutorial is command-line based so you will need access to your terminal window . Will be performing the steps on GCP.
